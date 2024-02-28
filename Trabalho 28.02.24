@@ -1,0 +1,29 @@
+Exercício 1 – Explique as diferenças entre 3 linguagens de programação:
+Python:A linguagem de programação Python é conhecida por sua simplicidade. É usado em diversos domínios, incluindo desenvolvimento web, automação, análise de dados, inteligência artificial e aprendizado de máquina.
+Sintaxe: Python possui uma sintaxe clara e concisa, o que facilita o aprendizado para iniciantes.
+Tipagem: Python é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar explicitamente o tipo de uma variável; ele é inferido em tempo de execução.
+
+Java:
+Propósito: Java é uma linguagem amplamente utilizada no desenvolvimento de aplicativos empresariais, aplicativos para celulares e desenvolvimento web.
+Sintaxe: A sintaxe do Java é influenciada pelo C++, sendo conhecida por ser mais rica e complexa do que Python. Ela exige uma abordagem mais estruturada na programação.
+Tipagem: Java é uma linguagem de tipagem estática, o que significa que você precisa declarar explicitamente os tipos de variáveis antes de usá-las.
+
+JavaScript:
+Propósito: JavaScript é a linguagem de programação principal para o desenvolvimento web. Ela é usada para criar interatividade e em ambientes server-side com o Node.js.
+Sintaxe: JavaScript possui uma sintaxe semelhante ao Java, diferenciando-se por ter tipagem dinâmica. Ela é crucial para o desenvolvimento front-end e também é usada no back-end com o advento do Node.js.
+Tipagem: JavaScript é fracamente tipada, o que significa que as variáveis podem mudar de tipo durante a execução do programa.
+
+Exercício 2 - Tente fazer um código mínimo de cada uma dessas linguagens
+Código mínimo - Python: # Solicita ao usuário para inserir dois números
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+
+# Soma os dois números
+soma = numero1 + numero2
+
+# Imprime o resultado
+print("A soma de", numero1, "e", numero2, "é:", soma)
+
+Código mínimo - Java: https://www.mycompiler.io/view/CAC0c4FAYVD
+
+Código mínimo - Javascript: https://www.mycompiler.io/view/6TjKwyiyUFb
