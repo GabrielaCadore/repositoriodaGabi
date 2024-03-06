@@ -1,0 +1,16 @@
+Estrutura de repetição Python:
+	mail=input("Insira um e-mail")
+2	while mail:
+3	    mail=input ("Insira um e-mail")
+
+Estrutura de tomada de decisão Python:
+
+1	# Variável idade
+2	idade = 17
+3	
+4	# Condição Para Verificar a Idade
+5	if idade >= 18:
+6	    print("Você é maior de idade.")
+7	else:
+8	    print("Você é menor de idade.")
+
