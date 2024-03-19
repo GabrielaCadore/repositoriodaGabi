@@ -1,10 +1,11 @@
 1) implemente o algoritmo de ordenação Bubble Sort usando python
-FRASE = "GABRIELA CADORE"
+frase = "GABRIELA ANDRADE CADORE"
+
 vogais = "aeiouAEIOU"
 
-for vogal in vogais:
-if letra = vogal
-print(letra):
+for letra in frase:
+    if letra in vogais:
+     print(letra)
 
 
     2) implemente um algorítimo que imprima apenas as vogais de uma
