@@ -1,24 +1,10 @@
 1) implemente o algoritmo de ordenação Bubble Sort usando python
-def bubble_sort(arr):
-    n = len(arr)
-    # Percorre todos os elementos do array
-    for i in range(n):
-        # Últimos i elementos já estão no lugar certo, então não precisamos
-        # considerá-los novamente. -1 é usado porque queremos comparar elementos adjacentes.
-        for j in range(0, n-i-1):
-            # Percorre o array do início até o fim - 1 - i
-            # Troca se o elemento atual for maior que o próximo
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
+FRASE = "GABRIELA CADORE"
+vogais = "aeiouAEIOU"
 
-# Teste
-arr = [64, 34, 25, 12, 22, 11, 90]
-bubble_sort(arr)
-print("Array ordenado:")
-for i in range(len(arr)):
-    print("%d" % arr[i])
-
-
+for vogal in vogais:
+if letra = vogal
+print(letra):
 
 
     2) implemente um algorítimo que imprima apenas as vogais de uma
