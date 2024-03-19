@@ -1,0 +1,23 @@
+Construa um scrip python que possua variáveis adequadas para armazenar:
+4 números
+uma frase
+uma palavra
+
+Seu scrip deve imprimir (indicando corretamente cada operação e seu resultado):
+a média artimetica entre os quatro números
+o quadrado de um dos números
+o dobro de um dos números
+a quantidade de letras da palavra
+a quantidade de espaços em branco da frase
+se o primeiro número é maior que o segundo
+o maior número
+
+NO SPYDER - FILE E SAVE AS
+
+a = True
+b = False
+
+Resultado1 = a and b
+Resultado2 = a or b
+Resultado3 = not a
+
